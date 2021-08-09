@@ -48,5 +48,7 @@ There Are Two Ways You Can use this command first is by providing the key name o
 
 -War Shoutout
 ```bash
-   +shoutout
+   +shoutout round_number
 ```
+![WhatsApp Image 2021-08-09 at 11 30 14 PM](https://user-images.githubusercontent.com/80933048/128752274-78704dd9-baad-4120-b79b-8ccc1564910b.jpeg)
+
