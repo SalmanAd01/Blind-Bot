@@ -8,7 +8,7 @@ Hey It's A Clash Of Clans Bot For Discord Having some New Features.
 
 [![Discord](https://img.shields.io/badge/Bot-Discord-blue)](https://discord.com/developers/docs/game-sdk/applications)
 
-[![Python](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/Python-v3.9.6-blue)](https://www.python.org/downloads/)
 
 ![Twitter](https://img.shields.io/twitter/url?color=Black&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAdhikariSalman%3Fs%3D09) 
  
