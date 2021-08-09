@@ -15,3 +15,11 @@ Hey It's A Clash Of Clans Bot For Discord Having some New Features Like War Shou
 [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue)](https://www.linkedin.com/in/salman-adhikari-a938911bb)
 
 [![COC](https://img.shields.io/badge/COC-API-blue)](https://developer.clashofclans.com/#/)
+## Features
+
+- To Know About Commands
+## Running Tests
+```bash
+  +help
+```
+![Screenshot (354)](https://user-images.githubusercontent.com/80933048/128749578-ee9d7de8-ca91-454e-844a-f740ed93ef4c.png)
