@@ -46,4 +46,7 @@ There Are Two Ways You Can use this command first is by providing the key name o
 ```
 ![Screenshot (356)](https://user-images.githubusercontent.com/80933048/128751285-54ed5e37-4d0e-404c-9b48-37f9249a642b.png)
 
-
+-War Shoutout
+```bash
+   +shoutout
+```
