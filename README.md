@@ -1,7 +1,7 @@
 
 # Blind Bot
 
-Hey It's A Clash Of Clans Bot For Discord Having some New Features.
+Hey It's A Clash Of Clans Bot For Discord Having some New Features Like War Shoutout Allience info And much more
 
 ## Badges
 
