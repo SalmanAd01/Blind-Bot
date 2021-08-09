@@ -36,7 +36,7 @@ There Are Two Ways You Can use this command first is by providing the key name o
 ![Screenshot (353)](https://user-images.githubusercontent.com/80933048/128750789-0f544d47-4d8c-4f59-ae87-b50dc081ae3a.png)
 
 ```bash
-  +clan key_name
+  +clan tag
 ```
 ![Screenshot (357)](https://user-images.githubusercontent.com/80933048/128751082-90c7bfc6-9b0a-4ebf-bcb9-07cc4193d274.png)
 
