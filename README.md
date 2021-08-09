@@ -22,7 +22,7 @@ Hey It's A Clash Of Clans Bot For Discord Having some New Features Like War Shou
 ```
 ![Screenshot (354)](https://user-images.githubusercontent.com/80933048/128749578-ee9d7de8-ca91-454e-844a-f740ed93ef4c.png)
 
-- Player Info
+- Player Info : It'll Show the Basic Player's Information
 ```bash
   +player tag
 ```
