@@ -40,7 +40,7 @@ There Are Two Ways You Can use this command first is by providing the key name o
 ```
 ![Screenshot (357)](https://user-images.githubusercontent.com/80933048/128751082-90c7bfc6-9b0a-4ebf-bcb9-07cc4193d274.png)
 
-- fefamily
+- fefamily : This will Show the Information about Your Allience
 ```bash
    +fefamily
 ```
