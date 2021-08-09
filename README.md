@@ -29,7 +29,14 @@ Hey It's A Clash Of Clans Bot For Discord Having some New Features Like War Shou
 ![Screenshot (355)](https://user-images.githubusercontent.com/80933048/128750581-11d6e5cb-cc5e-465a-b78d-88736913ecf2.png)
 
 - Clan Info
+There Are Two Ways You Can use this command first is by providing the key name or the clan tag
 ```bash
-  +clan tag
+  +clan key_name
 ```
 ![Screenshot (353)](https://user-images.githubusercontent.com/80933048/128750789-0f544d47-4d8c-4f59-ae87-b50dc081ae3a.png)
+
+```bash
+  +clan key_name
+```
+![Screenshot (357)](https://user-images.githubusercontent.com/80933048/128751082-90c7bfc6-9b0a-4ebf-bcb9-07cc4193d274.png)
+
